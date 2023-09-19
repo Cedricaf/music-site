@@ -1,10 +1,6 @@
 # Docker setup
 
 
-Deze uitleg gaat over een Docker setup met een container voor NGINX, PHP en MariaDB. Deze setup is zo in te stellen dat je een virtuele ontwikkel omgeving hebt die je kunt gebruiken voor alle ontwikkel opdrachten.
-Zo kun je als het nodig is een andere versie van PHP installeren of een andere database engine gebruiken.
-
-
 <hr>
 
 ## Onderdelen
